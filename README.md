@@ -37,13 +37,17 @@ Building high-performance web and mobile applications with modern technologies.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
 ### Styling & UI
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+
+
 
 ### Backend & Database
 
@@ -79,26 +83,44 @@ Building high-performance web and mobile applications with modern technologies.
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Client Projects
+
+> 📂 View Complete Client Portfolio & Case Studies
+
+🔗 **Client Projects Showcase:**  
+https://docs.google.com/document/d/1sO7ELMW1p0Hy5xswk48t1E-DZqKLfK-WwgantlQQQqE/edit?tab=t.0#heading=h.a2i3stcn68w7
+
+---
 
 ### 🍫 Babbi 1952
-Luxury e-commerce platform built with Next.js, TypeScript, Tailwind CSS, multilingual infrastructure, and advanced animations.
+Luxury e-commerce platform with multilingual support, advanced animations, and premium brand experience.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • Framer Motion
 
 ### 🏢 Gruppo Custom
-34-page multilingual corporate platform with complex video integrations and modular architecture.
+34+ page multilingual corporate platform with complex video integrations and pixel-perfect UI.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • i18n
 
 ### 🤖 AI Clinical Support Platform
-AI-powered healthcare solution with tamper-proof records and therapist workflow automation.
+AI-powered healthcare platform with tamper-proof records and workflow automation.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS
 
 ### 📊 Analytics Dashboard
-Enterprise-grade dashboard featuring dynamic charts, dark mode, and scalable architecture.
+Enterprise analytics dashboard with advanced data visualization and dark mode support.
+
+**Tech:** Next.js • Recharts • TypeScript
 
 ### 🎓 School Management System
-Complete school management solution with attendance, scheduling, enrollment, and results management.
+Comprehensive management solution for schools including attendance, scheduling, and result management.
 
-### 🍲 Bogura Theke
-Full-stack MERN application for traditional food discovery and online ordering.
+**Tech:** React • Next.js • Tailwind CSS
 
+### 📱 Cesena Mobile App
+Cross-platform mobile application with multilingual support and real-time API integration.
+
+**Tech:** React Native • TypeScript • NativeWind
 ---
 
 ## 💼 Professional Experience
