@@ -18,9 +18,9 @@ Building high-performance web and mobile applications with modern technologies.
 
 🌍 Based in Dhaka, Bangladesh
 
-💻 3+ years of professional experience
+💻 3.5+ years of professional experience
 
-✅ Delivered **100+ web & mobile projects**
+✅ Delivered **150+ web & mobile projects**
 
 ⚡ Specialized in React.js, Next.js, React Native, MERN Stack, Webflow & AI Automation
 
